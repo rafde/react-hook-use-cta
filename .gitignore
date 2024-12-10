@@ -86,6 +86,7 @@ web_modules/
 # Next.js build output
 .next
 out
+next-env.d.ts
 
 # Nuxt.js build / generate output
 .nuxt
@@ -101,7 +102,6 @@ out
 
 # vuepress v2.x temp and cache directory
 .temp
-.cache
 
 # Docusaurus cache and generated files
 .docusaurus
@@ -129,3 +129,4 @@ out
 .pnp.*
 
 .idea
+/next-env.d.ts
